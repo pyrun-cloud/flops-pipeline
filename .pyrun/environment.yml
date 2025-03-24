@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-      - lithops[aws]
+      - $LITHOPS
       - click
       - s3fs
       - rich
