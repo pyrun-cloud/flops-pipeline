@@ -8,10 +8,11 @@ dependencies:
   - git
   - numpy
   - matplotlib
-  - pandas
   - pip
   - pip:
       - $LITHOPS
       - click
       - s3fs
       - rich
+      - pandas
+
