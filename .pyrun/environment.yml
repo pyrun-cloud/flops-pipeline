@@ -15,4 +15,5 @@ dependencies:
       - s3fs
       - rich
       - pandas
+      - seaborn
 
